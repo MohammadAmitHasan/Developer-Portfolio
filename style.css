@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-family: 'Pushster', cursive;
+    font-size: 50px;
+    font-weight: 300;
+}
+.clr{
+    color: rgb(84, 131, 8);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+    margin-top: 50px;
+}
+.link-btn{
+    text-decoration: none;
+    background-image: linear-gradient(orange, purple);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+}
